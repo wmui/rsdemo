@@ -4,7 +4,7 @@ pageType: home
 hero:
   name: Rspress
   text: Rspack-based Static Site Generator
-  tagline: Rspress tagline
+  tagline: 好记性不如烂笔头
   actions:
     - theme: brand
       text: Quick Start
