@@ -3,5 +3,10 @@
     "text": "随笔",
     "link": "/essay/preface",
     "activeMatch": "^/essay/"
+  },
+  {
+    "text": "想法",
+    "link": "/idea/1",
+    "activeMatch": "^/idea/"
   }
 ]
